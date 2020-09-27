@@ -1,0 +1,31 @@
+h1{
+color:yellow;
+font-size: 200px;
+text-decoration: underline;
+}
+body{
+background-color: purple;
+}
+
+#first{
+font-size: 50px;
+}
+span{
+color: silver;
+}
+h2 span{
+	font-size: 200px;
+}
+
+h2{
+font-size: 50px;
+color: orange;
+text-decoration: underline;
+}
+#second{
+font-size: 100px;
+color: purple;
+}
+.small{
+font-size: 8px;
+}
