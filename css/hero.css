@@ -10,9 +10,8 @@ header{
 	padding-top: 40px;
 	padding-right: 40px;*/
 	padding: 40px;
-
-	
 }
+
 header h1{
 	color: white; font-size: 100px;
 	}
@@ -26,6 +25,7 @@ header img{
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 0 20px;
+}
 
 img.big-image{
 	max-width: 100%;
@@ -35,4 +35,35 @@ p.caption{
 	font-size: 16px;
 	color: lightgrey;
 	font-style: italic; 
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: orange;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 45px;
+	padding: 40px 20px;
+	background-color: #191970;
+}
+
+footer{
+	color: #ffffff
+}
+
+footer ul{
+	text-align: center;
+
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
 }
